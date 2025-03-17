@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: David Rook
+jobTitle: Owner and President
+location: Richmond, VA
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/owner-and-president-of-next-frontier-recovery-in-richmond-va-david-rook.jpg
+  alt: owner and president of Next Frontier Recovery in Richmond, VA, David Rook has
+siteUrl: https://www.david-rook.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/david-rook-0647967a/
     label: Visit
     show: true
   pinterest:
