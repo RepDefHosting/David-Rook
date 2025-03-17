@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: David Rook
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -13,11 +13,15 @@ subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
   src: /img/businesshero2.png
-  alt: Hero Image for home page
+  alt: owner and president of Next Frontier Recovery in Richmond, VA, David Rook
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: David Rook leads efforts to combat addiction as the president
+  and owner of Next Frontier Recovery in Richmond, VA. In addition to helping
+  clients live drug-free, David Rook’s company provides peer support and other
+  recovery support services to Virginia residents, in the Richmond metropolitan
+  area. He also develops the organization’s growth strategy, integrates clinical
+  staff into daily care, and ensures integrity, quality, and teamwork.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +36,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+David Rook leads efforts to combat addiction as the president and owner of Next Frontier Recovery in Richmond, VA. In addition to helping clients live drug-free, David Rook’s company provides peer support and other recovery support services to Virginia residents, in the Richmond metropolitan area. He also develops the organization’s growth strategy, integrates clinical staff into daily care, and ensures integrity, quality, and teamwork.
